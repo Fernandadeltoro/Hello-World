@@ -1,1 +1,4 @@
 # Hello-World
+Hello!, I am Fernanda. I am a computer programming student at El Paso Community College. I am an open-minded and critical thinker with a dream of combining my interests in computer science with neuroscience to achieve a positive impact within the medical field. Subjects such as Machine Learning, Automation, and Diplomacy excite me. My outside interests include Global Cuisine, International Documentaries, and Language Learning.
+
+My overall passion is learning from the world and what it can show me, as well as meeting new people and their new perspectives. I do so by engaging in networking within my academic institutions such as reaching out to new students, especially under-represented communities, into the STEM sphere in Girls Who Code. Feel free to check my projects and experiences all listed below.
